@@ -46,9 +46,9 @@ def plot_line_events(df:pd.DataFrame, x:str, y:str, hue:str):
 
 # --- D E E P   L E A R N I N G ---
 
-from tensorflow_core.python.keras.models import Sequential, Input, Model
-from tensorflow_core.python.keras.layers import (
-    Bidirectional, Dropout, TimeDistributed,
+from tensorflow.python.keras.models import Input, Model
+from tensorflow.python.keras.layers import (
+    Bidirectional, TimeDistributed,
     BatchNormalization, PReLU, ELU,
     Concatenate, RepeatVector, Subtract,
     LSTM, Dense
