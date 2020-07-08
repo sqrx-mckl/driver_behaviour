@@ -23,9 +23,12 @@ This is heavily inspired (with copy/paste) from the following article:
 I will come back to it to:
 - check yaw rate values
 - improve GAN clustering
-- test with more of the data available (not only accelerometers)
+- test with more features such as **OpenStreetMap** or **PROC VEHICLE DETECTION**
 
 ## Conclusion
+
+[Notebook link](https://github.com/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb)
+
 * [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Small-example)
 * [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Line-plots)
 * [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Ghost-plot-with-trajectories)
