@@ -173,7 +173,7 @@ def apply_corner_and_straight_event(
 
     df['dtime'] = df['time'].diff().fillna(0)
 
-    df['corner_flag'] = (df['gy'].abs() > 0.1)
+    df['corner_flag'] = (df['gy'].abs() > 0.3)
     df['straight_flag'] = (df['gy'].abs() < 0.5) & (df['speed'] > 10)
 
     corner_event = detect(
