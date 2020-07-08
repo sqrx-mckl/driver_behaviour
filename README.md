@@ -27,4 +27,13 @@ I will come back to it to:
 
 ## Conclusion
 
-[Notebook link](https://github.com/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb)
+### Notebook:
+[Notebook link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb)
+
+[Notebook Github link](https://github.com/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb)
+
+### Plots:
+* [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#Example-of-GAN-output)
+* [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#Line-plots)
+* [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#Ghost-plot-with-trajectories)
+* [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#T-SNE)
