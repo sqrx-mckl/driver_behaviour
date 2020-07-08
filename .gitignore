@@ -129,6 +129,7 @@ dmypy.json
 
 # VS code project
 .vscode
+.img/
 private
 data
 *.zip

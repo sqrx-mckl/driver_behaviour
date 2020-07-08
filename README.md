@@ -34,6 +34,10 @@ I will come back to it to:
 
 ### Plots:
 * [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#Example-of-GAN-output)
+![Gan output](.img/gan_output.png?raw=true "Gan output")
 * [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#Line-plots)
+![lineplot](.img/lineplot.png?raw=true "Lineplot")
 * [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#Ghost-plot-with-trajectories)
+![trajectories](.img/trajectories.png?raw=true "Trajectories")
 * [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/8da8cf5bcd19aaa6cb031f5cd160df9afa580deb/notebooks/4_clustering_gan.ipynb#T-SNE)
+![tsne](.img/tsne.png?raw=true "T-SNE")
