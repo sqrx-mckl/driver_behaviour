@@ -26,7 +26,7 @@ I will come back to it to:
 - test with more of the data available (not only accelerometers)
 
 ## Conclusion
-[GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Small-example)
-[Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Line-plots)
-[Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Ghost-plot-with-trajectories)
-[T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#T-SNE)
+* [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Small-example)
+* [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Line-plots)
+* [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#Ghost-plot-with-trajectories)
+* [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/4_clustering_gan.ipynb#T-SNE)
