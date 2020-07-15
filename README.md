@@ -28,16 +28,16 @@ I will come back to it to:
 ## Conclusion
 
 ### Notebook:
-[Notebook link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb)
+[Notebook link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb)
 
-[Notebook Github link](https://github.com/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb)
+[Notebook Github link](https://github.com/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb)
 
 ### Plots:
-* [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb#Example-of-GAN-output)
+* [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb#Example-of-GAN-output)  
 ![Gan output](.img/gan_output.png?raw=true "Gan output")
-* [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb#Line-plots)
+* [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#Time-plot-with-statistical-ranges)  
 ![lineplot](.img/lineplot.png?raw=true "Lineplot")
-* [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb#Ghost-plot-with-trajectories)
+* [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#Trajectories)  
 ![trajectories](.img/trajectories.png?raw=true "Trajectories")
-* [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb#T-SNE)
+* [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#T-SNE-and-UMAP)  
 ![tsne](.img/tsne.png?raw=true "T-SNE")
