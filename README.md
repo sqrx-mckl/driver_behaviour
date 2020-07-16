@@ -35,9 +35,11 @@ I will come back to it to:
 ### Plots:
 * [GAN output link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/4_clustering_gan.ipynb#Example-of-GAN-output)  
 ![Gan output](.img/gan_output.png?raw=true "Gan output")
+* [Andrew curves of the encoder features](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#Andrew-plots-of-the-encoder-features)  
+![Andrew curves of the encoder features](.img/andrew_curves.png?raw=true "Andrew curves of the encoder features")
+* [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#T-SNE-and-UMAP)  
+![tsne](.img/tsne.png?raw=true "T-SNE")
 * [Line plots per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#Time-plot-with-statistical-ranges)  
 ![lineplot](.img/lineplot.png?raw=true "Lineplot")
 * [Trajectories per cluster link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#Trajectories)  
 ![trajectories](.img/trajectories.png?raw=true "Trajectories")
-* [T-SNE link](https://nbviewer.jupyter.org/github/sqrx-mckl/driver_behaviour/blob/master/notebooks/5_cluster_analysis.ipynb#T-SNE-and-UMAP)  
-![tsne](.img/tsne.png?raw=true "T-SNE")
